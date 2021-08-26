@@ -10,7 +10,7 @@
 - 💬 Ask me about anythings.
 - 📫 How to reach me: DM me anywhere.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I hate people when they write my name half or in small letter.
+- ⚡ Fun fact: I don't like people when they write my name half or in small letter.
 
 
 
