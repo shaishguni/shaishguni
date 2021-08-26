@@ -1,6 +1,6 @@
 
 **Shaish Guni**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaishguni" /> </p>
 <hr/>
 
 - 🔭 I’m currently working on my startup.
