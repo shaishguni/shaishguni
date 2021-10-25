@@ -25,7 +25,7 @@
 ## Bio
 
 <p>
-I am  a full stack developer normally focused in making new startup and promoting it in remote and developing countries.He is a experience developer with enough skills on Python , Javascript , Dart. I am  into developing a decentralized social media to share experience on certain topics. 
+I am  a full stack developer normally focused in making new startup and promoting it in remote and developing countries.I am a experience developer with enough skills on Python , Javascript , Dart. I am  into developing a decentralized social media to share experience on certain topics. 
  
 
 
