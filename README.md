@@ -4,18 +4,18 @@
 <hr/>
 
 - 🔭 I’m currently working on my startup.
-- 🌱 I’m currently learning react native
-- 👯 I’m looking to collaborate on anykind of app/repo.
-- 🤔 I’m looking for help with on my orginization.
-- 💬 Ask me about anythings.
+- 🌱 I’m currently learning about AI and developing a SAAS + AI platform
 - 📫 How to reach me: DM me anywhere.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't like people when they write my name half or in small letter.
+
 
 
 
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shaishguni&show_icons=true&count_private=true&theme=tokyonight"  width=100%
+  height=auto />
+  <a href="#">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shaishguni"  width=100%
   height=auto />
 <br>
 <br>
@@ -25,8 +25,8 @@
 ## Bio
 
 <p>
-I am  a full stack developer normally focused in making new startup and promoting it in remote and developing countries.I am a experience developer with enough skills on Python , Javascript , Dart. I am  into developing a decentralized social media to share experience on certain topics. 
- 
+  🌟 CEO & Founder aircraft | I'm still figuring out if I’m a genius or good at Googling. 🚀🔍
+
 
 
 </p>
