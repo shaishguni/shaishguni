@@ -29,7 +29,7 @@
 ## Bio
 
 <p>
-  🌟 CEO & Founder aircraft | I'm still figuring out if I’m a genius or good at Googling. 🚀🔍
+  🌟 CEO & Founder apeirocraft | I'm still figuring out if I’m genius or good at Googling. 🚀🔍
 
 
 
