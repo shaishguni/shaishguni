@@ -11,16 +11,8 @@
 
 
 
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shaishguni&show_icons=true&count_private=true&theme=tokyonight"  width=100%
-  height=auto />
-  <br/>
-<br>
-<br>
-</a>
-  <br/>
-<br>
-<br>
+
+ 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shaish%20guni" alt="GitHub Streak" /></a>
 
 ## Bio
