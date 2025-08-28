@@ -18,7 +18,7 @@
 ## Bio
 
 <p>
-  🌟 CEO & Founder apeirocraft | I'm still figuring out if I’m genius or good at Googling. 🚀🔍
+  🚀 17 y/o founder @apeirocraft | 🛠️ cooking up PipelinePilot, eduSaaS & more | 💡⚡ ideas → industry slayers✨
 
 
 
