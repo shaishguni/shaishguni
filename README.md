@@ -1,9 +1,6 @@
 
  
 
-
-## Bio
-
 <p>
 founder <a href="https://apeirocraft.tech/">@apeirocraft </a>
 
