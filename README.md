@@ -1,38 +1,13 @@
-# Shaish Guni
+### shaishguni
 
-**building [apeirocraft](https://apeirocraft.tech) — turning businesses into machines**  
-*shipping fast. scaling faster.*
+building [apeirocraft](https://apeirocraft.tech) — digital products & SaaS for businesses that want to scale.
+mostly working with `typescript` `next.js` `python` `supabase`
+currently — CRM, analytics, AI automation. all under one roof.
+
 ---
-## ⚡ What I do
-- build full-stack products (web, SaaS, automation)
-- help businesses go online + scale visibility
-- turn ideas into working systems
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shaishguni&theme=dark&hide_border=true&background=00000000)](https://git.io/streak-stats)
+
 ---
-## 🚀 Current Focus
-- scaling **[Apeirocraft](https://apeirocraft.tech)** into a modular SaaS ecosystem
-- building:
-  - CRM
-  - landing pages
-  - analytics
-  - AI automation
----
-## 🧠 Selected Work
-- **[Apeirocraft](https://apeirocraft.tech)** — digital growth + SaaS platform  
-- **PipelinePilot** — workflow & automation system  
-- **Real-world apps** — clinics, pharmacy, business systems  
----
-## 🛠 Tech
-`TypeScript` `React` `Next.js` `Python` `Django` `Supabase`
----
-## 📈 Philosophy
-> speed > perfection  
-> execution > ideas  
-> consistency > motivation
----
-## 🌍 Vision
-build systems that don’t just look good —  
-they **generate results**
----
-[🌐](https://apeirocraft.tech)
 ✨👾
-<img src="https://streak-stats.demolab.com?user=shaishguni" alt="GitHub Streak" />
+ 
